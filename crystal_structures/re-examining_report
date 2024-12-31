@@ -1,0 +1,137 @@
+
+>> all str compared to 3l63 (or 2H7R) : which represent the I helix conformation seen in most P450s
+>> importantly, this str was mainly for substrate dependence and with no mutation, hence a good reference
+>> this str though matches most of the strs in I helix, but differs in G-H loop, hence a 5WK7 may be better/recent/good_publication reference [[but this involve R186A mutation]]
+>> different crystals also differ in H-I loop
+
+1AKD - same
+1C8J - same
+1CP4 - same
+1DZ4 - same
+1DZ6 - same
+1DZ8 - same
+1DZ9 - same
+1GEB - same
+1GEK - same
+1GEM - same
+1GJM - same [sheets in place of beta' helix]
+1IWI - same
+1IWJ - same
+1IWK - same
+1J51 - same 
+1K2O - kinked - [h helix shifted, ch1-open, ch2-some open beta maintains]
+1LWL - same [partial ch1 open via F helix] **1
+1MPW - same
+1NOO - same
+1O76 - same
+1P2Y - same
+1P7R - same 
+1PHA - same 
+1PHB - same 
+1PHC - same
+1PHD - same
+1PHE - same
+1PHF - same
+1PHG - same
+1QMQ - kinked [little kink, h helix shifted, ch1-open, ch2-some open beta maintained]
+1RE9 - same [partial ch1 open via F helix] **1
+1RF9 - straight [ch1-open, h-little shift, ch2-closed] **1
+1T85 - same
+1T86 - same
+1T87 - same
+1T88 - same 
+1UYU - same
+1YRD - same
+2A1M - same
+2A1N - same
+2CP4 - same
+2CPP - same
+2FE6 - same
+2FER - same
+2FEU - same
+2FRZ - same
+2GQX - same
+2GR6 - same
+2H7Q - same
+2H7R - straight [little bit more unkinked than ref(3L63)]
+2H7S - same
+2L8M - same [almost, in-principle, many little alignment differences]
+2LQD - same [almost, in-principle, many little alignment differences]
+2M56 - same
+2QBL - same 
+2QBM - same 
+2QBN - same 
+2QBO - same 
+2Z97 - same
+2ZAW - same 
+2ZAX - same
+2ZUH - same 
+2ZUI - same 
+2ZUJ - same 
+2ZWT - same 
+2ZWU - same 
+3CP4 - same
+3CPP - same
+3FWF - same
+3FWG - same
+3FWI - same
+3FWJ - same
+3L61 - kinked - [h helix shifted, ch1-open, ch2-some open, beta' unfolded]
+3L62 - kinked - [h helix shifted, ch1-open, ch2-some open, beta' unfolded]
+3L63 - ref
+3OIA - same [partial ch1 open via F helix] **1 
+3OL5 - same [partial ch1 open via F helix] **1
+3P6M - same [partial ch1 open via F helix] **1
+3P6N - same [partial ch1 open via F helix] **1
+3P6O - same [partial ch1 open via F helix] **1
+3P6P - same [partial ch1 open via F helix] **1
+3P6Q - kinked [little kink, h helix shifted, ch1-open, ch2-some open, beta' unfolded]
+3P6R - kinked [little kink, h helix shifted, ch1-open, ch2-some open, beta' unfolded]
+3P6S - kinked [little kink, h helix shifted, ch1-open, ch2-some open, beta' unfolded]
+3P6T - kinked [little kink, h helix shifted, ch1-open, beta' maintains] **1
+3P6U - kinked [little kink, h helix shifted, ch1-open, ch2-open, beta' unfolded]
+3P6V - kinked [little kink, h helix shifted, ch1-open, ch2-open, beta' unfolded]
+3P6W - kinked [h helix shifted, ch1-open, ch2-open, beta' unfolded]
+3P6X - kinked [h helix shifted, ch1-open, ch2-open, beta' unfolded]
+3W9C - kinked [h helix shifted, ch1-open, ch2-open, beta' unfolded]
+3WRH - same 
+3WRI - kinked [h helix shifted, ch1-open, ch2-open, beta' unfolded]
+3WRJ - same 
+3WRK - kinked [h helix shifted, ch1-open, ch2-closed, beta' unfolded] 
+3WRL - same 
+3WRM - same 
+4CP4 - same
+4CPP - same
+4EK1 - same 
+4G3R - same
+4JWS - kinked [large kink, ch1-open, h-shifted, ch2-completely gone]
+4JWU - kinked [h helix shifted, ch1-open, ch2-some open, beta'-maintained]
+4JX1 - kinked [h helix shifted, ch1-open, ch2-some open, beta'-maintained]
+4KKY - same
+4L49 - same 
+4L4A - same 
+4L4B - same 
+4L4C - same
+4L4D - same
+4L4E - same
+4L4F - same
+4L4G - same
+5CP4 - same
+5CPP - same
+5GXG - kinked [h helix shifted, ch1-open, ch2-some open, beta' unfolded]
+5IK1 - kinked [h helix shifted, ch1-open, ch2-gone]
+5WK7 - same
+5WK9 - same
+6CP4 - same
+6CPP - same
+6NBL - kinked [large kink, ch1-open, h-shifted, ch2-open** beta maintained]
+6WE6 - same
+6WFL - same
+7CPP - same
+8CPP - same
+
+
+due to G2489, some kink (bumb) is there in almost all (most straight-2H7R)
+
+
+ **1 :: IMPORTANT NOTE: the structures represent exceptions to our allosteric mechanism, because these are un-naturally forced to completely/partially open via linkered substrates
