@@ -1,0 +1,68 @@
+integrator		= md
+dt			= 0.002
+nsteps			= 12500000
+;
+nstxout			= 0000
+nstvout			= 0000
+nstfout			= 00000
+nstlog			= 1000
+nstenergy		= 1000
+nstcalcenergy		= 100
+nstxtcout		= 5000
+xtc_grps		= system
+;
+energygrps		= system
+;
+cutoff-scheme		= Verlet
+nstlist			= 20
+;
+vdwtype			= Cut-off
+vdw-modifier		= Force-switch
+rvdw			= 1.2
+rvdw_switch		= 1.0
+rlist			= 1.2
+rcoulomb		= 1.2
+coulombtype		= pme
+;
+tcoupl			= Nose-Hoover
+tc-grps			= Protein non-protein
+tau_t			= 1.0     1.0
+ref_t			= 303.15  303.15
+;
+gen-vel			= no
+gen-temp		= 303.15
+gen-seed		= -1
+continuation		= yes
+;
+pcoupl			= parrinello-rahman
+compressibility		= 4.5e-5
+tau_p			= 5.0
+ref_p			= 1.0
+;
+constraints		= h-bonds
+constraint_algorithm	= Lincs
+;
+nstcomm			= 100
+comm_mode		= linear
+comm_grps		= Protein non-protein
+;
+refcoord_scaling	= com
+;
+;
+;
+;pull_code
+pull			= yes
+pull-ncoords		= 1
+pull-ngroups		= 2
+pull-group1-name	= S83_CA
+pull-group2-name	= S102_CA
+pull-coord1-type	= umbrella
+pull-coord1-geometry	= distance
+pull-coord1-dim		= Y Y Y
+pull-coord1-groups	= 1 2
+pull-coord1-init	= 0.450
+pull-coord1-k		= 2000
+;
+pull-print-com		= yes
+pull-nstxout		= 10
+pull-nstfout		= 10
