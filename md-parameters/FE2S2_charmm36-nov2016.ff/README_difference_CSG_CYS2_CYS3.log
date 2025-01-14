@@ -1,0 +1,21 @@
+Difference between CSG {{ defined molecule }}, CYS2 {{ neutral deprotonated CYS }} and CYS3 {{ Dr da Silva }}
+	* C1O LJ params different in than CT2 (CYS2)  {{ same for CYS3 }}
+				CSG				CYS2				CYS3
+	* C1O-CT1 bond		0.1538  158992  		0.1538 186188	(CT2-CT1)	(CSG)
+	* C1O-HA2 bond		0.1111  251040            	0.1111 258571.2 		(CSG)
+	* C1O-SSG bond		0.1829  61877                   0.1816 179075   (CT2-SM)	0.184848 22923  (C1O-S1O)
+	* C1O-CT1-HB1		111  292.88			111 292      			(CSG)
+	* C1O-CT1-C		108  435.136			108 435.136			(CSG)
+	* C1O-CT2-NH1		113.5 585.76			113.5 585.76			(CSG)
+	* HA2-C1O-CT1		110.1 289.532			110.1 221.752			(CSG)
+	* HA2-C1O-HA2		108.4 297.064			109  297.064			(CSG)
+	* SSG-C1O-HA2		109   144.0788			111 317.984			112.3 334.72
+	* SSG-C1O-CT1		70.6425 295.568			112.5 485.34			118 460
+
+
+
+
+
+######## NOTE #######
+##
+#   The above differences {{ specially in Ks }} were taken cared for by further changes like increasing scaling factor.
