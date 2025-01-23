@@ -1,3 +1,1 @@
-These are GAAMP generated parameters for camphor molecule.
-
-original reference: [![binding-pathway](https://img.shields.io/badge/binding--pathway-gray?style=for-the-badge)](https://pubs.acs.org/doi/10.1021/jacs.8b10840)
+These are GAAMP generated parameters for camphor molecule estimated in our previous work [![binding-pathway](https://img.shields.io/badge/binding--pathway-gray?style=for-the-badge)](https://pubs.acs.org/doi/10.1021/jacs.8b10840)
