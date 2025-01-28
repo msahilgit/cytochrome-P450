@@ -6,9 +6,11 @@ We deciphered the allosteric functioning mechanism of cytochrome P450cam, which 
 
 This repository provides associated codes and data for our work on cytochrome P450cam, corresponding to publication -to-be-out-soon [![to-be-published](https://img.shields.io/badge/to--be--published-red?style=for-the-badge)](https://github.com/msahilgit/cytochrome-P450)
 
+The trajectory data files for this work are available on zenodo [![trajectories](https://img.shields.io/badge/trajectories-red?style=for-the-badge)](https://github.com/msahilgit/cytochrome-P450)
+
 This work is extension to our previous work on cytochrome P450. [![3site-state](https://img.shields.io/badge/3site--state-darkgreen?style=for-the-badge)](https://pubs.acs.org/doi/full/10.1021/jacs.3c06144)
 
-Below are our previous publications: 
+Below are our previous publications on cytochrome P450: 
 [![binding-pathway](https://img.shields.io/badge/binding--pathway-green?style=for-the-badge)](https://pubs.acs.org/doi/10.1021/jacs.8b10840)
 [![conformational-heterogeneity](https://img.shields.io/badge/conformational--heterogeneity-green?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S0006349521001983?via%3Dihub)
 [![CG-binding](https://img.shields.io/badge/CG--binding-green?style=for-the-badge)](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.0c01683)
