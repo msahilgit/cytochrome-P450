@@ -28,5 +28,5 @@ Below are our previous publications on cytochrome P450: \
 &nbsp;
 
 ![Alt text](p450.png)
-<sub>(A) The cytochrome P450cam with important structures highlighted, channel-1, channel-2, helices </sub?
+<sub> **Figure** (A) The cytochrome P450cam with important structures highlighted, channel-1, channel-2, helices &alpha;F, &alpha;G, &alpha;H, &alpha;I and &alpha;&beta;. The three substrate binding modes (catalytic, waiting and allosteric are also shown. (B) Zoomed view of &alpha;I with highlighted G248 and G249 residues, respondible for kinking in &alpha;I. (C) The &alpha;I conformations as observed in simulations and re-examing the crystals structures. (D) The conformations of P450cam as observed in simulations and re-examing crystal structures. (E-G) The conformational correlation plots of &alpha;I with &alpha;FG (channel-1), L102 (channel-2) and &alpha;H (allosteric site).  </sub>
 
